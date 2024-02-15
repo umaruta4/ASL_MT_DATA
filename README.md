@@ -27,6 +27,7 @@ Each controller (right and left) contains 14 different channels.
 This is the channel and the explanation
 
 1 => Trigger Touch (boolean)
+
 2 => Trigger Press (boolean)
 
 3 => Grip (float)
