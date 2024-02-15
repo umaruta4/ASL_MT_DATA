@@ -7,7 +7,7 @@ feel free to contribute to dataset
 Motion Translator Client link : https://github.com/umaruta4/MotionTranslatorClient
 
 
-Field explanation
+# Field explanation
 
 "requests" => This contains all the SL dataset recorded
 
@@ -20,10 +20,9 @@ Field explanation
 "data" => This contains the controllers data which is _leftControllerRecordData and _rightControllerRecordData
 
 
-Explanation of the controller values :
+# Explanation of the controller values :
 
 Each controller (right and left) contains 14 different channels.
-
 
 This is the channel and the explanation
 
