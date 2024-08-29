@@ -1,6 +1,6 @@
 # SL Motion Translator Client Data
 
-This is the list of sign language data collected using motion translator client
+This is the list of sign language data collected using **old client of motion translator client**
 
 feel free to contribute to dataset
 
